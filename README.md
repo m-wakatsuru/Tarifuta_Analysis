@@ -31,11 +31,11 @@ There are 1 notebook and 1 csv data available here to showcase work related to t
 The main findings of the code can be found at the post available [here](https://qiita.com/m-wakatsuru/items/16dbbe9a084be5a81de9).
 (Sorry, this blog is written in Japanese.)
 
-Breifly..  
-result1 ... Wakabayashi got more fovorite and reteeet in every term than Yamasato
-result2 ... Wakabayashi used the word 'Yamasato' the most frequently.
-            Yamasato also used 'Wakabayashi-kun' the most frequently.
-
+Breifly speaking,  
+result1 ... Wakabayashi got more fovorite and reteeet in every term than Yamasato  
+result2 ... Wakabayashi used the word 'Yamasato' the most frequently.  
+            Yamasato also used 'Wakabayashi-kun' the most frequently.  
+  
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
 Feel free to use the code here as you would like!
